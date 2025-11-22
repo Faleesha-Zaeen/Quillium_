@@ -7,3 +7,4 @@ sentencepiece
 nltk
 pandas
 plotly
+python-dotenv
